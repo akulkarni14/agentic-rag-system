@@ -1,0 +1,20 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that focuses on building systems that can learn from and make decisions based on data.
+
+History:
+The term was coined by Arthur Samuel in 1959. Early ML algorithms were based on symbolic logic, while modern ML is heavily dominated by statistical methods and neural networks.
+
+Types of Machine Learning:
+1. Supervised Learning: The model is trained on labeled data.
+2. Unsupervised Learning: The model finds hidden patterns in unlabeled data.
+3. Reinforcement Learning: The model learns by interacting with an environment to maximize a reward.
+
+Common Algorithms:
+- Linear Regression
+- Decision Trees
+- K-Means Clustering
+- Support Vector Machines (SVM)
+
+Impact:
+ML is used today in everything from email spam filters to self-driving cars and medical diagnosis.
