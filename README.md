@@ -118,20 +118,20 @@ streamlit run src/app.py
 * **Framework**: LangChain
 * **Memory**: Sliding window (3 turns)
 
-🔍 LLM Choice
+🔍 LLM Choice :- 
 Google Gemini was used for its easy API setup, good performance, and seamless LangChain integration.
 Ollama was not used due to local setup and resource requirements.
 OpenAI was avoided to keep the project free and simple without billing setup.
 
-🔍 Vector DB Choice
+🔍 Vector DB Choice :- 
 ChromaDB was used for its lightweight setup and local persistence.
 Avoided cloud DBs to keep the system simple and self-contained.
 
-🔍 Routing Strategy
+🔍 Routing Strategy :- 
 Prompt-based routing was chosen for flexibility and better decision-making.
 Rule-based logic was avoided as it is rigid and less scalable.
 
-🔍 Memory Design
+🔍 Memory Design :- 
 Sliding window (last 3 interactions) used for simplicity and efficiency.
 Full conversation memory avoided to reduce context size and cost.
 
